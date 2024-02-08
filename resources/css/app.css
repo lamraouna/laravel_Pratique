@@ -1,0 +1,6 @@
+@import '~bootstrap/dist/css/bootstrap.css';
+
+.btn_Add {
+    justify-content: center;
+    margin-top: 20px;
+}
